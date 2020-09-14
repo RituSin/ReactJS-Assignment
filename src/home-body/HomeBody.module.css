@@ -1,0 +1,130 @@
+.conatiner
+{
+    position: absolute;
+    background: #FFFFFF;
+    border-radius: 40px 40px 0px 0px;
+}
+
+.body-title
+{
+    left: 42px;
+    top: 38px;
+    position: absolute;
+    width: 638px;
+    height: 126px;    
+    background: #51B08A;
+    border-radius: 24px;
+}
+
+.box
+{
+    /* left: 235px;
+    top: 84px; */
+    position: absolute;
+    width: 97px;
+    height: 73px;
+    left: 28px;
+    top: 26px;
+
+    background: #C4C4C4;
+}
+
+.body-title-text
+{
+    position: absolute;
+    width: 346px;
+    height: 21px;
+    left: 150px;
+    top: 26px;
+    padding: 0px;
+    margin: 0px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 21px;
+    /* identical to box height, or 58% */
+
+
+    color: #FFFFFF;
+}
+
+.title-text
+{
+    width: 346px;
+height: 21px;
+left: 427px;
+top: 152px;
+
+    position: absolute;
+    width: 437px;
+    height: 36px;
+    left: 151px;
+    top: 59px;
+
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+    
+    
+    color: #F2F2F2;
+    
+}
+
+.tell-us-about-your-company
+{
+    /* left: 196px;
+    top: 110px;
+    right: 872px;
+    bottom: 599px; */
+    position: absolute;
+    left: 46px;
+    
+    top: 169px;
+    bottom: 66.56%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #373737;
+}
+
+.card
+{
+    position: absolute;
+    width: 305px;
+    height: 134px;
+    /* left: 610px;
+    top: 317px; */
+
+    background: #EEF8F4;
+    border-radius: 24px;
+}
+
+.companyDetails
+{
+    position: absolute;
+    left: 24px;
+    /* right: 68.19%; */
+    top: 15px;
+    /* bottom: 91px; */
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 0px;
+    /* or 105% */
+
+
+    color: #373737;
+
+}

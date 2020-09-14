@@ -1,0 +1,111 @@
+.container
+{
+    /* margin-top: 90px; */
+
+    position: absolute;
+    /* width: 1440px; */
+    height: 900px; 
+    left: 0px;
+    top: 0px;
+    
+    background-color: #f2f2f2;
+}
+
+.dashboard-container 
+{
+    position: absolute;
+    width: 220px;
+    height: 64px;
+    left: 0px;
+    top: 94px;
+    
+    background-color: #FFFFFF;
+    border-radius: 0px 24px 24px 0px;
+    
+}
+
+
+.side-rect-dashboardSection
+{
+    position: absolute;
+    width: 8px;
+    height: 64px;
+    left: 0px;
+    
+    background: #38795F;
+}
+
+
+.home-icon
+{    
+    position: absolute;
+    left: 14%;
+    right: 96.31%; 
+    top: 16.39%;
+    bottom: 82%;
+
+    color: #51B08A;
+    border: 1px solid #F2F2F2;
+    transform: scale(1.8,2);
+}
+
+.dashboard-text 
+{
+    position: absolute;
+    width: 78px;
+    height: 19px;
+    left: 83px;
+    top: 5px; 
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    color: #38795F;
+}
+
+.request-container
+{
+    position: absolute;
+    width: 220px;
+    height: 64px;
+    left: 0px;
+    padding: 4px;
+    margin-top: 5
+    
+}
+
+.request-text 
+{
+    position: absolute;
+    width: 78px;
+    height: 19px;
+    left: 84px;
+    top: 7px; 
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #373737;
+    /* identical to box height */
+    
+}
+
+.req-icon
+{
+    position: absolute;
+    left: 14%;
+    right: 96.31%; 
+    top: 16.39%;
+    bottom: 82%;
+
+    color: #373737;
+    border: 1px solid #F2F2F2;
+    transform: scale(1.8,2);
+}
+
+
