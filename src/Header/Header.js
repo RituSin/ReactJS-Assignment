@@ -10,7 +10,7 @@ const header = () => {
             width: window.innerWidth 
         },
         namestyle: {
-            left: window.innerWidth - 150
+            left: window.innerWidth - 165
         },
         solidcircle: {
             left: window.innerWidth - 210

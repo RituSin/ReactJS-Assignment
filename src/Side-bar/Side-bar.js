@@ -8,7 +8,7 @@ import HomeBody from '../home-body/HomeBody';
 
 const Sidebar = () => {
     const mystyle = {
-        container: { width: window.innerWidth, height: window.innerHeight},
+        container: { width: window.innerWidth, height: window.innerHeight+100},
         requestContainer : {top: 158    },
         paymentContainer : {top: 218   }
     }
@@ -28,6 +28,10 @@ const Sidebar = () => {
             <div className="request-container" style={mystyle.paymentContainer}>
                 <div  className="req-icon" > <FontAwesomeIcon icon={faWallet} /></div>
                 <p className="request-text">Payments</p>
+            </div>
+
+            <div className="footer">
+            (c) Protected by Law. Sanctioned under Companies Act. Sanctioned under Companies Act.
             </div>
 
             <HomeBody />

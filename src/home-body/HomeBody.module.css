@@ -128,3 +128,165 @@ top: 152px;
     color: #373737;
 
 }
+
+.companyDetail-text
+{
+    position: absolute;
+    left: 24px;
+    top: 40px;
+    /* bottom: 52.56%; */
+    width: 160px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+
+    color: #373737;
+    
+}
+
+.fillNow 
+{
+    position: absolute;
+    width: 79px;
+    height: 21px;
+    left: 203px;
+    top: 89px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height, or 150% */
+
+
+    color: #38795F;
+}
+
+
+.tell-us-about-your-buyer-platform
+{
+      /* left: 196px;
+    top: 110px;
+    right: 872px;
+    bottom: 599px; */
+    position: absolute;
+    left: 46px;
+    
+    top: 372px;
+    /* bottom: 66.56%; */
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #373737;
+}
+
+.add-Card
+{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    left: 1048px;
+    top: 450px;
+
+    border: 1px solid #51B08A;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.plus-icon
+{
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    left: 1068px;
+    top: 470px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 0px;
+    /* identical to box height, or 58% */
+
+    text-align: center;
+
+    color: #51B08A;
+}
+
+.buyer-plateform-text{
+    position: absolute;
+    width: 93px;
+    height: 36px;
+    left: 1033px;
+    top: 512px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+    text-align: center;
+
+    color: #51B08A;
+}
+
+.verify-your-bank-acc
+{
+    position: absolute;
+    left: 46px;
+    
+    top: 580px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: rgb(192, 189, 189);
+
+}
+
+.Bank-Acc-card
+{
+    position: absolute;
+    width: 366px;
+    height: 134px;
+    left: 46px;
+    top: 640px;
+
+    background: #EEF8F4;
+    border-radius: 24px;
+}
+
+.verifyNow
+{
+    position: absolute;
+    width: 98px;
+    height: 21px;
+    left: 235px;
+    top: 89px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height, or 150% */
+
+
+    color: #a1c0b3;
+}
